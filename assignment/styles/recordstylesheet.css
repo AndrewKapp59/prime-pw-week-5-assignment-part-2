@@ -1,0 +1,18 @@
+
+.name {
+  background-color: #6699cc;
+  color: #f0f8ff;
+  text-align: center;
+}
+
+.note {
+  background-color: #d3d3d3;
+  border-radius: 25px;
+  padding: 1em;
+  text-align: center;
+}
+
+body {
+  background-image: url('../record.png');
+  margin: 0;
+}
